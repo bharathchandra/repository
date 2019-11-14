@@ -18,6 +18,7 @@ public class operations
 		if (count ==0)
 		{
 			System.out.print("NOT POSSIBLE");
+			System.out.println("789");
 		}
 		
 		
